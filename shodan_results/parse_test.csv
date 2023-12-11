@@ -1,0 +1,3 @@
+vuln,num_hosts,unique_ports
+CVE-2015-0204,2,993/443
+CVE-2015-4000,2,993/443
